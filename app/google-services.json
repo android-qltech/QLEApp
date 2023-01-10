@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "811335223725",
+    "project_id": "ql-e-app",
+    "storage_bucket": "ql-e-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811335223725:android:14f5dbdf2a1121bc833924",
+        "android_client_info": {
+          "package_name": "com.qltech.qle_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811335223725-kjo1t9l2pbog0s5e55t5h7urp0gshkfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qltech.qle_app",
+            "certificate_hash": "f53743d2fc734e6c518cd7e7be88d73a4ebc374f"
+          }
+        },
+        {
+          "client_id": "811335223725-3r9v4r5q5p81n6qp46rcc55cccd652a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU3Ecw6ZNUFjfyTrtCghzuNmGSfjcK_do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811335223725-3r9v4r5q5p81n6qp46rcc55cccd652a7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
